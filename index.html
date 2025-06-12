@@ -3,29 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CzechGenius</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>CzechGenius – Podpoř české vědce</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header>
-    <h1>CzechGenius</h1>
-    <p>Podpoř české tvůrce a vědce – pozvi je na kávu ☕</p>
+  <header class="top-bar">
+    <img src="images/logo.png" alt="CzechGenius logo" class="logo" />
   </header>
 
-  <section id="creator">
-    <h2>Mgr. Jan Novák, Ph.D.</h2>
-    <p>Pracuji na výzkumu Alzheimerovy choroby. Pomoz mi šířit osvětu a financovat můj výzkum.</p>
-    <button onclick="supportCreator()">Pozvat na kávu (80 Kč)</button>
+  <main class="hero-section">
+    <div class="hero-text">
+      <h1>Podpoř české vědce</h1>
+      <p>Objevuj a podporuj výzkum českých vědců. Pozvi je na kafe a ukaž, že jejich práce má smysl!</p>
+      <a href="#" class="cta-button">Najdi vědce</a>
+    </div>
+    <div class="hero-image">
+      <img src="images/hero.png" alt="Vědec s kávou" />
+    </div>
+  </main>
+  <section class="about-section">
+    <h2>O projektu</h2>
+    <p>
+      CzechGenius je komunitní platforma, která propojuje české vědce s veřejností.
+      Umožňuje vědcům sdílet svou práci lidsky a srozumitelně – formou krátkých příspěvků, jako na sociálních sítích.
+      Každý návštěvník může podpořit oblíbeného vědce malou částkou – například „pozváním na kafe“.
+      Cílem projektu je podpořit otevřenou vědu, ocenit lidské úsilí za výzkumem a vytvořit prostor, kde věda není vzdálená, ale blízká a osobní.
+    </p>
   </section>
-
-  <section id="supporters">
-    <h3>Nejvíc českou vědu podporují:</h3>
-    <ul id="supporterList">
-      <li>Eva K.</li>
-      <li>Martin P.</li>
-    </ul>
-  </section>
-
-  <script src="script.js"></script>
 </body>
 </html>
