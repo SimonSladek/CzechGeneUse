@@ -1,62 +1,75 @@
-# CzechGeneUse
+# CzechGenius
 
-**CzechGeneUse** is a grassroots platform aiming to support Czech scientists through microtransactions, transparent science communication, and community engagement.
+**CzechGenius** is an independent Czech platform designed to support scientists, creators, and socially valuable projects through microtransactions, transparent storytelling, and direct public support.
 
 ---
 
 ## 🎯 Vision
 
-The goal of CzechGeneUse is to:
-- Enable Czech scientists, PhD students, and young researchers to present their research to the public in an accessible way.
-- Allow the public to support their favorite scientific minds through small donations (e.g., "Buy a coffee", "Pay for wellness", etc.).
-- Create a space for science outreach, visibility, and mutual connection between researchers and society.
-- Build a national scientific community with fair and transparent support systems.
+The mission of CzechGenius is to:
+
+- Empower Czech scientists, students, and creators to present their work to the public in a personal and accessible way.
+- Enable the public to support inspiring projects with small donations (e.g., "Buy a coffee", "Pay for lunch", "Support a wellness day").
+- Build a transparent environment where contributors see exactly **who they support** and **how they help**.
+- Create a grassroots movement that reconnects society with those who make meaningful contributions—without intermediaries.
 
 ---
 
 ## 🧪 MVP Features
 
-The first version of the platform will include:
-- Scientist profile creation (photo, description of research, goals)
-- Public profile pages with donation options
-- List of Top 10 supporters (individuals and companies)
-- "Invite to coffee/lunch/wellness" donation levels
-- Public overview of supported projects
-- Simple backend to track donations (mockup stage)
+The initial version of the platform will include:
+
+- Public creator profiles (photo, bio, project description)
+- Donation options with creative labels ("Buy coffee", "Buy lunch", etc.)
+- Public leaderboard of top supporters (individuals and companies)
+- About Me page introducing the creator of CzechGenius and their vision
+- Basic backend system to track contributions (mock/test version only)
+
+---
+
+## 💡 What's Unique?
+
+Unlike global platforms like BuyMeACoffee or Patreon, **CzechGenius** focuses on:
+
+- **The Czech community** – Designed for local context, transparency, and language.
+- **Science + Creativity** – Open to scientists, artists, educators, and innovators.
+- **100% ownership** – Built from scratch using free and open-source tools by one passionate founder.
+- **Low fees** – The platform will take only ~10% to reinvest into its development and infrastructure.
 
 ---
 
 ## 📬 Contact
 
-If you'd like to get involved, offer feedback, or collaborate, feel free to contact me:
+Interested in helping, testing, or supporting CzechGenius?
 
-- 📧 Email: [your@email.com] (replace with yours)
-- 🌐 Website: [link will be added after MVP is deployed]
-
----
-
-## 💸 How to Contribute
-
-There are 3 ways to contribute:
-
-1. **As a supporter** – Once the MVP is online, you’ll be able to donate directly to researchers.
-2. **As a developer/designer** – If you want to help build the platform, open an issue or send a message.
-3. **As a scientist** – Reach out if you'd like to join the first beta testing group.
+- 📧 Email: [sladeksi.work@gmail.com] 
+- 🌐 Website: [link will be added after launch]
 
 ---
 
-## 💻 Technologies
+## 💸 How You Can Contribute
 
-Planned tech stack:
+1. **Supporter** – Donate once the platform is live and visible.
+2. **Collaborator** – Are you a developer or designer? Open an issue or reach out to join the effort.
+3. **Creator/Scientist** – Want to be among the first featured creators? Contact for beta testing.
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend (MVP)**: Python (Flask or FastAPI)
-- **Database**: SQLite or PostgreSQL
-- **Deployment**: GitHub Pages / Render / Vercel
-- **Design Tools**: Figma (UI mockups), Canva (public graphics)
+---
+
+## 🛠️ Technology
+
+Planned stack and tools:
+
+- **Frontend**: HTML, CSS, JavaScript (hand-coded, lightweight)
+- **Backend**: Python (Flask or FastAPI – in planning)
+- **Database**: SQLite (simple prototype phase)
+- **Deployment**: GitHub Pages (MVP), Render or Vercel (later)
+- **Design tools**: Figma, Canva
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License – feel free to use, improve, and share with attribution.
+This project is released under the MIT License – feel free to use, fork, and build on it with attribution.
+
+---
+
